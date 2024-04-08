@@ -1,0 +1,94 @@
+
+
+.game-display{
+    background-color: rgb(60, 60, 60);
+    height: 90vh;
+    color: white;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.game-playing{
+    background-color: rgb(60, 60, 60);
+    width: 100%;
+    height: 300px;
+    color: white;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.game-photo{
+    width: 250px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.card-hide{
+    width: 0px;
+    height: 0px;
+    font-size: 0px;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+
+.game-loose{
+    background-color: #ae4c4c;
+    height: 20vh;
+    width: 50vh;
+    text-align: center;
+    border-radius: 30px;
+    margin: 30px;
+    text-align: center;
+}
+.game-winning{
+    background-color: #11722b;
+    height: 20vh;
+    width: 50vh;
+    text-align: center;
+    border-radius: 30px;
+    margin: 30px;
+    text-align: center;
+}
+
+.button-home{
+    background-color: white;
+    color: black;
+    width: 70px;
+    height: 60px;
+    border-radius: 30px;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+}
+.button-input{
+    background-color: white;
+    color: black;
+    width: 90px;
+    height: 90px;
+    border-radius: 30px;
+    text-decoration: none;
+    cursor: pointer;
+    margin: 10px;
+    text-align: center;
+}
+
+.game-count-lifes{
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#input-adivinar{
+    width: 200px;
+    height: 90px;
+    border-radius: 30px;
+    text-align: center;
+}

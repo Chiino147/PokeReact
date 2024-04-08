@@ -1,0 +1,26 @@
+.Button-Home{
+    font-size: 30px;
+    margin: 10px;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    font-family: "Oswald", sans-serif;;
+}
+.Button-Home:hover{
+    transition: 2s;
+    font-size: 40px;
+    margin: 10px;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    font-family: "Oswald", sans-serif;;
+    text-decoration:underline;
+}
+
+.logo-h1{
+    color: white;
+}
+.home{
+    color: white;
+    font-family: "Oswald", sans-serif;;
+}
